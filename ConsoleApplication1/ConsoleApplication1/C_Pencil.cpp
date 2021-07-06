@@ -2,8 +2,7 @@
 
 C_Pencil::C_Pencil()
 {
-	S_Color color;
-	color.red = color.green = color.blue = 0;
+	S_Color color(0, 0, 0);
 	this->color = color;
 	this->len = 14;
 }

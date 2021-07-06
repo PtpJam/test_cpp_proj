@@ -21,12 +21,18 @@
     <ClCompile Include="C_Pencil.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="C_Pencil_Red.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="S_Color.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="C_Pencil.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="C_Pencil_Red.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

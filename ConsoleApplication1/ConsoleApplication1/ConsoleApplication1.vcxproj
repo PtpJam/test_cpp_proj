@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="C_Pencil.cpp" />
+    <ClCompile Include="C_Pencil_Red.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C_Pencil.h" />
+    <ClInclude Include="C_Pencil_Red.h" />
     <ClInclude Include="S_Color.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
