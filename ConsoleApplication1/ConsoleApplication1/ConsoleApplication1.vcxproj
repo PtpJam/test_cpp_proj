@@ -140,6 +140,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp" />
+    <ClCompile Include="C_Pencil.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C_Pencil.h" />
+    <ClInclude Include="S_Color.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
