@@ -140,10 +140,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp" />
+    <ClCompile Include="C_Eraser.cpp" />
+    <ClCompile Include="C_Eraser_Hard.cpp" />
     <ClCompile Include="C_Pencil.cpp" />
     <ClCompile Include="C_Pencil_Red.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C_Eraser.h" />
+    <ClInclude Include="C_Eraser_Hard.h" />
     <ClInclude Include="C_Pencil.h" />
     <ClInclude Include="C_Pencil_Red.h" />
     <ClInclude Include="S_Color.h" />
